@@ -1,0 +1,8 @@
+#ClockContainer{
+    margin: auto;
+    border: 2px solid red;
+    height: 50vw;
+    width: 50vw;
+    background: url(Clock.png) no-repeat;
+    background-size: 100%;
+}
